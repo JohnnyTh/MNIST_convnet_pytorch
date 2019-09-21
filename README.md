@@ -33,8 +33,14 @@ Suggestions on reducing the test set error:
 
 ### Requirements: ###
 Python =>3.6.8
+
 numpy == 1.16.5
+
 torch == 1.1.0
+
 torchvision == 0.3.0
+
 matplotlib == 3.0.3
+
 requests == 2.21.0
+
